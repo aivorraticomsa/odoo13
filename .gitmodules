@@ -6,3 +6,7 @@
 	path = fleet
 	url = git@github.com:OCA/fleet.git
 	branch = 13.0
+[submodule "connector"]
+	path = connector
+	url = git@github.com:OCA/connector.git
+	branch = 13.0
