@@ -10,3 +10,7 @@
 	path = connector
 	url = git@github.com:OCA/connector.git
 	branch = 13.0
+[submodule "queue"]
+	path = queue
+	url = git@github.com:OCA/queue.git
+	branch = 13.0
