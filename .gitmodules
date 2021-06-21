@@ -77,3 +77,7 @@
 	path = account-financial-reporting
 	url = https://github.com/OCA/account-financial-reporting.git
 	branch = 13.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/OCA/edi.git
+	branch = 13.0
